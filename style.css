@@ -1,0 +1,31 @@
+h1{
+    font-family: cursive;
+    font-size: 3.5rem;
+    text-align: center;
+    color: rebeccapurple;
+}
+
+li{
+    padding-top: 1rem;
+    list-style-image: url('./img/chefHat.svg');
+    font-weight: bold;
+    
+    
+}
+
+ul{ 
+    display: inline-block;
+    text-align: left;
+}
+
+.container{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color:brown
+}
+a:hover{
+    color: black;
+}

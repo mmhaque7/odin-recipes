@@ -1,0 +1,42 @@
+h1 {
+  text-align: center;
+  color: cadetblue;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.p-cont {
+  background-color: aliceblue;
+  border-bottom: 1px solid lightcoral;
+  border-right: 1px solid lightcoral;
+  display: block;
+  max-width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+.ingredients {
+  text-align: center;
+}
+
+.ingredients-list{
+    display: inline-block;
+    text-align: left;
+}
+h3{
+    text-align: center;
+}
+
+.step{
+    display: inline-block;
+    text-align: center;
+}
+.steps-cont{
+    
+    text-align: left;
+}
